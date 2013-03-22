@@ -1,0 +1,18 @@
+# Sun Music
+type=video
+name=Sun Music
+thumb=http://3.bp.blogspot.com/-1kROwSqhRvI/USJBaFZbTcI/AAAAAAAAANc/L57UZmDTtik/s1600/sunmusic.png
+URL=rtmp://cdn.nwk3.yupptv.tv/nwk3%20playpath=sunmusic%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20live=true%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default
+
+# Kalaigner Tv Europe 
+type=video
+name=Kalaignar TV Europe (tvlist)
+URL=rtmp://109.163.231.230/live22%20playpath=kal%20swfUrl=http://www.zstream.eu/pl11ayer.swf%20pageUrl=http://www.zstream.eu/embed.php?v=kal&vw=630&vh=400&video=0&domain=www.pogotv.eu%20timeout=15
+player=default
+
+
+
+
+
+
