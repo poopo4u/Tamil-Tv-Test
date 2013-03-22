@@ -1,19 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addon
-       id="Tamil tv live test" version="1.0.0" name="Tamil Live TV" provider-name="super starz">   
-        <requires>
-         <import addon="xbmc.python" version="2.1.0"/>
-         <import addon="script.module.buggalo" version="1.1.2"/>
-         </requires>
-         <extension point="xbmc.python.pluginsource" library="addon.py">
-         <provides>video</provides>
-         </extension>
-         <extension point="xbmc.addon.metadata">
-                 <summary lang="en">Watch Tamil Live TV</summary>
-                 <description lang="en">Stream a selection of the Tamil live channels
-         
-                 <platform>all</platform
-                 <language>en</language>
-        </extension>
- 
- </addon>
+ <?xml version="1.0" encoding="UTF-8"?>
+<addon 
+   id="plugin.video.tamil tv" version="1.0.0" name="Tamil Live TV" provider-name="super starz">
+   <requires>
+   <import addon="xbmc.python" version="2.1.0"/> 
+       <import addon="script.module.buggalo" version="1.1.2"/>
+   <provides>video</provides> 
+   </extension> 
+   extension point="xbmc.addon.metadata"> 
+   <summary lang="en">Watch tamil Live TV</summary>
+   <summary lang="da">Se tamilske Live TV</summary>
+   <description lang="en">Stream a selection of tamil live channels
+   <description lang="da">Stream en række tamilske live kanaler
+   <license>GPL 2.0</license> 
+   </extension>
+<addon> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
