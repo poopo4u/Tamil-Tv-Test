@@ -1,0 +1,279 @@
+version=1
+background=http://www.navixtreme.com/images/bhttp://t1.gstatic.com/images?q=tbn:ANd9GcSIgFBAYVwq9n_lavIRpSIYYFiSj03sLHhby_P0RPEbwAuSCzJoackgrounds/bkg_navix_bh_plain.jpg
+title=Tamil Tvs
+logo=http://t0.gstatic.com/images?q=tbn:ANd9GcSbNnxXQ8MUFrqE0_2RN2LIbE5Iu4QCKjkhPTqlBoUAJO67uXcLtQ
+#
+type=video
+name=Sun Tv Indian
+thumb=http://www.newtvworld.com/Images/SUN-TV.JPG
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=suntv%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20live=true%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default
+#
+type=video
+name=Kalanger Tv
+thumb=http://www.kalaignartv.co.in/inn-logo.jpg
+URL=rtmp://50.7.190.130:1939/base2/kalai0.stream%20playpath=kalai0.stream%20swfUrl=http://turbotv.in/player1.swf%20pageUrl=http://tamiltv.tv
+player=default
+#
+type=video
+name=Sun Tv Europa
+thumb=http://www.newtvworld.com/Images/SUN-TV.JPG
+URL=rtmp://live.ukcast.tv/broadcast/sun_tv.stream%20pageURL=http://www.ukcast.tv/embed.php?u=sun_tv&vw=600&vh=430%20swfUrl=http://www.ukcast.tv/player/player.swf%20live=true
+player=default
+#
+type=video
+name=KTV
+thumb=http://4.bp.blogspot.com/-BD3G8_XLO48/USJBX8F7-qI/AAAAAAAAAMs/8Xs6K74MygI/s1600/s-ktv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=ktv%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20live=true%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default
+#
+type=video
+name=Murasu TV
+thumb=http://4.bp.blogspot.com/-1qTBX7ghpH0/T4TXosOp4uI/AAAAAAAAAcQ/4AEWZxQ-xIg/s1600/murasu.jpg
+URL=rtmp://50.7.190.130:1939/base2/kalai5.stream%20swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf%20pageUrl=http://tamiltv.tv/murasu-tv-live/
+player=default
+#
+type=video
+name=Sirippoli TV
+thumb=http://tv.listenradios.com/wp-content/uploads/2012/05/Sirippoli-Channel-live.jpg
+URL=rtmp://50.7.188.163/base2/kalai3.stream%20swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf%20pageUrl=http://www.turbotv.in/sirippoli-tv/
+player=default
+#
+type=video
+name=Isai Aruvi Live
+thumb=http://www.tamil.listenradios.com/wp-content/uploads/2012/09/Isaiaruvi-TV-Live.jpg
+URL=rtmp://50.7.190.130:1939/base2/kalai2.stream%20swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf%20pageUrl=http://tamiltv.tv/isai-aruvi-live/
+player=default
+#
+type=video
+name=Adithya Tv
+thumb=http://mio.singtel.com/businessmiotv/_channels/pic_ch628.jpg
+URL=rtmp://80.82.70.225/live22/adithyatv%20pageURL=http://www.zstream.eu/embed.php?v=adithyatv&vw=600&vh=420&video=0&domain=pogotv.eu%20swfUrl=http://www.zstream.eu/pl11ayer.swf%20live=true
+player=default
+#
+type=video
+name=Sun Music
+thumb=http://3.bp.blogspot.com/-1kROwSqhRvI/USJBaFZbTcI/AAAAAAAAANc/L57UZmDTtik/s1600/sunmusic.png
+URL=rtmp://cdn.nwk3.yupptv.tv/nwk3%20playpath=sunmusic%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20live=true%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default
+#
+type=video
+name=Sun Life TV
+thumb=http://1.bp.blogspot.com/-o6yA4dFLlE0/USJBZuHy4cI/AAAAAAAAANI/ChiRtPY3UDg/s1600/sunlifetv.png
+URL=rtmp://50.7.188.164:1939/base2%20playpath=hmtv7.stream%20swfUrl=http://turbotv.in/player1.swf%20timeout=15%20pageUrl=http://tamiltv.tv
+player=default
+#
+type=video
+name=Vijay Tv
+thumb=http://1.bp.blogspot.com/-00QcR6GN6qI/UORnj04nU2I/AAAAAAAABMk/iGAoSVqbR7M/s1600/201X128-vijay.jpg
+URL=rtmp://live.ukcast.tv/broadcast/star_vijay.stream%20pageURL=http://www.ukcast.tv/embed.php?u=star_vijay&vw=600&vh=430%20swfUrl=http://www.ukcast.tv/player/player.swf%20live=true
+player=default
+#
+type=video
+name=Kalaignar TV Europe (tvlist)
+URL=rtmp://109.163.231.230/live22%20playpath=kal%20swfUrl=http://www.zstream.eu/pl11ayer.swf%20pageUrl=http://www.zstream.eu/embed.php?v=kal&vw=630&vh=400&video=0&domain=www.pogotv.eu%20timeout=15
+player=default
+#
+type=video
+name=DD Pothigai (Extra &lt; tvlist)
+thumb=http://www.lyngsat-logo.com/logo/tv/dd/dd_podhigai.jpg
+URL=rtmp://50.7.188.164:1939/base2%20playpath=dd10.stream%20swfUrl=http://turbotv.in/player1.swf%20timeout=15%20pageUrl=http://tamiltv.tv
+player=default
+#
+type=video
+name=Jaya TV
+thumb=http://3.bp.blogspot.com/-B6dx7NJYpWo/USJBOyjV8oI/AAAAAAAAAKg/x1MCBd7hv44/s1600/jayatv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=jayatv%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=108
+player=default
+#
+type=video
+name=Jaya Max
+thumb=http://2.bp.blogspot.com/-E_vfeszmTCI/USJBOo_Ay8I/AAAAAAAAAKY/qmL9DxQ8YVw/s1600/jayamax.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=jayamax%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=165
+player=default
+#
+type=video
+name=Makkal Tv
+thumb=http://1.bp.blogspot.com/-zeSU643m3Tg/USJBSvS9PWI/AAAAAAAAALQ/69c9gPaShW4/s1600/makaltv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk1%20playpath=makkal%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=152
+player=default
+#
+type=video
+name=Zee Tamil TV
+thumb=http://2.bp.blogspot.com/-eVqCuYKI6ow/USoQPWryNPI/AAAAAAAAAT0/zFa4mIca0fU/s1600/zeetamil.png
+URL=rtmp://109.163.231.230/live22%20playpath=zeetamil%20swfUrl=http://www.zstream.eu/pl11ayer.swf%20pageUrl=http://www.zstream.eu/embed.php?v=zeetamil&vw=630&vh=400&video=0&domain=pogotv.eu
+player=default
+#
+type=video
+name=Raj Digital Plus
+thumb=http://2.bp.blogspot.com/-nQE_Wd61AaQ/USJBWXPY1PI/AAAAAAAAAMQ/9mcA2XO1M90/s1600/rajdigitaltv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=rajdigitalplus%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=159
+player=default
+#
+type=video
+name=Raj Musix
+thumb=http://4.bp.blogspot.com/-uL23AIDQSmM/USJBWoW5SsI/AAAAAAAAAMU/lt5-P1zAjK8/s1600/rajmusixtv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=zeetelest%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=110
+player=default
+#
+type=video
+name=Jaya Plus
+thumb=http://1.bp.blogspot.com/-TB_4GyeGGX0/USJBOg4h1XI/AAAAAAAAAKc/ul0NSxDSHwo/s1600/jayaplustv.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=jayaplus%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=167
+player=default
+#
+type=video
+name=Jaya Movies
+thumb=http://2.bp.blogspot.com/-kSDPZBDAlTs/USJBPZAENII/AAAAAAAAAKk/hTxRKvDbM_A/s1600/jeyamovie.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk%20playpath=jayamovies%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=169
+player=default
+#
+type=video
+name=Jaya TV (US)
+thumb=http://3.bp.blogspot.com/-TCda3y-gb4E/USJBPhIzb5I/AAAAAAAAAKo/xHWqeeGxH1U/s1600/jayatvus.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk1%20playpath=jayatvus900%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=191
+player=default
+#
+type=video
+name=Holy Cross (tvlist &lt; Tamil Christian TV's)
+thumb=http://tamilchristiantv.com/wp-content/uploads/2011/01/holycross1.jpg
+URL=rtmp://38.96.148.172:1935/live/%20playpath=holycross%20swfUrl=http://www.iwaystream.com/remote2/player/player.swf%20pageUrl=http://www.iwaystream.com/remote2/holycross/
+player=default
+#
+type=video
+name=Puthiya Thalaimurai
+thumb=http://2.bp.blogspot.com/-0PP72ZY0kMQ/USJBWHB41WI/AAAAAAAAAMY/Ri6GlCSn8rU/s1600/pu-thalimurai.png
+URL=rtmp://50.7.188.164:1939/base2/tamil22.stream%20swfUrl=http://turbotv.in/player1.swf%20pageUrl=http://tamiltv.tv
+player=default
+#
+type=video
+name=ITN
+thumb=http://1.bp.blogspot.com/-Y3qIPxjL2_s/USJBOfHCtaI/AAAAAAAAAKU/lFbC3ybiVdI/s1600/itn-sl.png
+URL=rtmp://mediacp.comcities.com:1935/itn-cdn%20playpath=default.stream%20swfUrl=http://cdn.itnlanka.com/itn.swf%20live=true%20pageUrl=http://cdn.itnlanka.com/itn.swf
+player=default
+#
+type=video
+name=Mega Music
+thumb=http://livetubetvfree.net/files/thumbs/1285423937c9948-3.jpg
+URL=rtmp://50.7.190.82:1939/base2/kalai8.stream%20swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf%20pageUrl=http://tamiltv.tv/mega-musiq-live/
+player=dvdplayer
+#
+type=video
+name=Mega 24
+thumb=http://4.bp.blogspot.com/-m6Pc0KAnLdc/USJBTBmgwkI/AAAAAAAAALc/7Qw80kWEzxo/s1600/mega24.png
+URL=rtmp://cdn.rtmp1.yupptv.tv/nwk2%20playpath=mega24%20swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf%20pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=257
+player=default
+#
+type=video
+name=Captain tv
+thumb=http://4.bp.blogspot.com/_sb9yp2CsJVU/S1BFLTusLKI/AAAAAAAAQlA/dRvxLLUvbIE/s1600/Captain-TV-Logo-01.jpg
+URL=rtmp://50.7.188.212:1939/base2/tamil0.stream%20playpath=tamil0.stream%20swfUrl=http://turbotv.in/player1.swf%20pageUrl=http://tamiltv.tv
+player=default
+#
+type=video
+name=Vasanth Tv
+thumb=http://www.lyngsat-logo.com/hires/vv/vasanth_tv.png
+URL=rtmp://50.7.188.164:1939/base2/tamil7.stream%20swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf%20pageUrl=http://tamiltv.tv/vasanth-tv-live/
+player=default
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
