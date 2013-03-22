@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
- version=1.0.0
+       id="Tamil tv live test" version="1.0.0" name="Tamil Live TV" provider-name="super starz">   
         <requires>
-                      <import addon="xbmc.python" version="2.1.0"/>
+         <import addon="xbmc.python" version="2.1.0"/>
          <import addon="script.module.buggalo" version="1.1.2"/>
          </requires>
          <extension point="xbmc.python.pluginsource" library="addon.py">
@@ -10,28 +10,10 @@
          </extension>
          <extension point="xbmc.addon.metadata">
                  <summary lang="en">Watch Tamil Live TV</summary>
-                 
-         </extension>
+                 <description lang="en">Stream a selection of the Tamil live channels
+         
+                 <platform>all</platform
+                 <language>en</language>
+        </extension>
  
  </addon>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
