@@ -53,34 +53,8 @@ class Channel(object):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Sun Music
+# sun Music(1, "sun music.stream").add_urls(
 type=video
 name=Sun Music
 thumb=http://3.bp.blogspot.com/-1kROwSqhRvI/USJBaFZbTcI/AAAAAAAAANc/L57UZmDTtik/s1600/sunmusic.png
