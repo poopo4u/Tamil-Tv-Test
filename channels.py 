@@ -1,3 +1,85 @@
+class Channel(object):
+   def __init__(self, id, category, config_key = None): 
+       self.id = id        
+       self.category = category       
+       self.config_key = config_key       
+       self.urls = dict()
+
+     CHANNELS.append(self)       
+     CATEGORIES[category].append(self)
+      
+    def add_urls(self, best = None, high = None, medium = None, low = None):
+        
+    if best: self.urls[Q_BEST] = best       
+    if high: self.urls[Q_HIGH] = high        
+    if medium: self.urls[Q_MEDIUM] = medium      
+    if low: self.urls[Q_LOW] = low
+    
+    def get_url(self, quality, idx = 0):
+     if self.urls.has_key(quality):
+         urls = self.urls[quality]
+     elif quality == Q_BEST and self.urls.has_key(Q_HIGH):
+         urls = self.urls[Q_HIGH]
+       else:           
+              return None        
+              
+          if type(urls) == list:            
+          if len(urls) > idx:                
+             return urls[idx]            
+         else:                
+             return urls[0]        
+     else:            
+         return urls
+     
+      def get_id(self):       
+          return self.id
+      
+      
+      def get_category(self):       
+          return self.category
+     
+      
+      def get_description(self):        
+          return ''
+
+
+      def get_config_key(self):       
+          return self.config_key
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Sun Music
 type=video
 name=Sun Music
